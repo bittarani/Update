@@ -1,0 +1,86 @@
+{
+  "uid" : "a066f008be6efc13",
+  "name" : "isFilterButtonisDisplayed",
+  "fullName" : "app.pp.TeamPlanningTest.isFilterButtonisDisplayed",
+  "historyId" : "4cdb20cca928baf23414e1fef93e01d9",
+  "time" : {
+    "start" : 1550780626203,
+    "stop" : 1550780626352,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1550780614018,
+      "stop" : 1550780622183,
+      "duration" : 8165
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "shutDownPage",
+    "time" : {
+      "start" : 1550780637273,
+      "stop" : 1550780637349,
+      "duration" : 76
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "app.pp.TeamPlanningTest"
+  }, {
+    "name" : "testClass",
+    "value" : "app.pp.TeamPlanningTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "isFilterButtonisDisplayed"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "app.pp.TeamPlanningTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3M5A5R3N"
+  }, {
+    "name" : "thread",
+    "value" : "17088@LAPTOP-3M5A5R3N.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a066f008be6efc13.json",
+  "parameterValues" : [ ]
+}

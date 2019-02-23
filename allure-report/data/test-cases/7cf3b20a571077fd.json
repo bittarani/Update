@@ -1,0 +1,86 @@
+{
+  "uid" : "7cf3b20a571077fd",
+  "name" : "clickMenubutton",
+  "fullName" : "app.pp.TeamPlanningTest.clickMenubutton",
+  "historyId" : "339c89e1adeae9e63b06943a77ac1866",
+  "time" : {
+    "start" : 1550786326646,
+    "stop" : 1550786328737,
+    "duration" : 2091
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1550786320163,
+      "stop" : 1550786326564,
+      "duration" : 6401
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "shutDownPage",
+    "time" : {
+      "start" : 1550786341289,
+      "stop" : 1550786343432,
+      "duration" : 2143
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "app.pp.TeamPlanningTest"
+  }, {
+    "name" : "testClass",
+    "value" : "app.pp.TeamPlanningTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickMenubutton"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "app.pp.TeamPlanningTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3M5A5R3N"
+  }, {
+    "name" : "thread",
+    "value" : "17028@LAPTOP-3M5A5R3N.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7cf3b20a571077fd.json",
+  "parameterValues" : [ ]
+}

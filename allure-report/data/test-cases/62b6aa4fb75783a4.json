@@ -1,0 +1,86 @@
+{
+  "uid" : "62b6aa4fb75783a4",
+  "name" : "verifyPagetitle",
+  "fullName" : "app.pp.SignInTest.verifyPagetitle",
+  "historyId" : "c9c8e681981a0f8e0978e2de14c9cdd8",
+  "time" : {
+    "start" : 1550785734442,
+    "stop" : 1550785734454,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1550785729327,
+      "stop" : 1550785734365,
+      "duration" : 5038
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "shutDownPage",
+    "time" : {
+      "start" : 1550785736147,
+      "stop" : 1550785738468,
+      "duration" : 2321
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "app.pp.SignInTest"
+  }, {
+    "name" : "testClass",
+    "value" : "app.pp.SignInTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyPagetitle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "app.pp.SignInTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3M5A5R3N"
+  }, {
+    "name" : "thread",
+    "value" : "15408@LAPTOP-3M5A5R3N.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62b6aa4fb75783a4.json",
+  "parameterValues" : [ ]
+}

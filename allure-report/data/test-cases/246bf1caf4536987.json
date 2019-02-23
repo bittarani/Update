@@ -1,0 +1,86 @@
+{
+  "uid" : "246bf1caf4536987",
+  "name" : "isSelectdDropdownListPresent",
+  "fullName" : "app.pp.TeamPlanningTestPage.isSelectdDropdownListPresent",
+  "historyId" : "76c80846f3509c58c7ceff8b35f35db4",
+  "time" : {
+    "start" : 1550786463732,
+    "stop" : 1550786463790,
+    "duration" : 58
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1550786450990,
+      "stop" : 1550786459235,
+      "duration" : 8245
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "shutDownPage",
+    "time" : {
+      "start" : 1550786474754,
+      "stop" : 1550786477155,
+      "duration" : 2401
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "app.pp.TeamPlanningTestPage"
+  }, {
+    "name" : "testClass",
+    "value" : "app.pp.TeamPlanningTestPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "isSelectdDropdownListPresent"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "app.pp.TeamPlanningTestPage"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3M5A5R3N"
+  }, {
+    "name" : "thread",
+    "value" : "10384@LAPTOP-3M5A5R3N.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "246bf1caf4536987.json",
+  "parameterValues" : [ ]
+}

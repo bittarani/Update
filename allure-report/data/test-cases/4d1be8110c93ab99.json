@@ -1,0 +1,112 @@
+{
+  "uid" : "4d1be8110c93ab99",
+  "name" : "isSelectdDropdownListPresent",
+  "fullName" : "app.pp.TeamPlanningTestPage.isSelectdDropdownListPresent",
+  "historyId" : "76c80846f3509c58c7ceff8b35f35db4",
+  "time" : {
+    "start" : 1550786918636,
+    "stop" : 1550786918685,
+    "duration" : 49
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1550786907882,
+      "stop" : 1550786914408,
+      "duration" : 6526
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "shutDownPage",
+    "time" : {
+      "start" : 1550786929665,
+      "stop" : 1550786932028,
+      "duration" : 2363
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "app.pp.TeamPlanningTestPage"
+  }, {
+    "name" : "testClass",
+    "value" : "app.pp.TeamPlanningTestPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "isSelectdDropdownListPresent"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "app.pp.TeamPlanningTestPage"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3M5A5R3N"
+  }, {
+    "name" : "thread",
+    "value" : "14536@LAPTOP-3M5A5R3N.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c60f3a17534d53ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550786750694,
+        "stop" : 1550786750836,
+        "duration" : 142
+      }
+    }, {
+      "uid" : "4904e73d559b7e1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550786566076,
+        "stop" : 1550786566116,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "246bf1caf4536987",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550786463732,
+        "stop" : 1550786463790,
+        "duration" : 58
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d1be8110c93ab99.json",
+  "parameterValues" : [ ]
+}

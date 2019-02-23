@@ -1,0 +1,113 @@
+{
+  "uid" : "41876d9ed7515dc6",
+  "name" : "isAddwithDetailsButtonclicked",
+  "fullName" : "app.pp.TeamPlanningTestPage.isAddwithDetailsButtonclicked",
+  "historyId" : "d4f9dd69e0a38943224d391a3b1575f7",
+  "time" : {
+    "start" : 1550786929010,
+    "stop" : 1550786929657,
+    "duration" : 647
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1550786907882,
+      "stop" : 1550786914408,
+      "duration" : 6526
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "shutDownPage",
+    "time" : {
+      "start" : 1550786929665,
+      "stop" : 1550786932028,
+      "duration" : 2363
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "app.pp.TeamPlanningTestPage"
+  }, {
+    "name" : "testClass",
+    "value" : "app.pp.TeamPlanningTestPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "isAddwithDetailsButtonclicked"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "app.pp.TeamPlanningTestPage"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3M5A5R3N"
+  }, {
+    "name" : "thread",
+    "value" : "14536@LAPTOP-3M5A5R3N.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d1c9a791c8426bb6",
+      "status" : "failed",
+      "statusDetails" : "expected [New] but found []",
+      "time" : {
+        "start" : 1550786761188,
+        "stop" : 1550786761606,
+        "duration" : 418
+      }
+    }, {
+      "uid" : "947c0af6be402d18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550786576409,
+        "stop" : 1550786577060,
+        "duration" : 651
+      }
+    }, {
+      "uid" : "477ffa7706636e12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550786474078,
+        "stop" : 1550786474743,
+        "duration" : 665
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "41876d9ed7515dc6.json",
+  "parameterValues" : [ ]
+}

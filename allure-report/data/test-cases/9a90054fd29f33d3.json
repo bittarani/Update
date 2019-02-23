@@ -1,0 +1,70 @@
+{
+  "uid" : "9a90054fd29f33d3",
+  "name" : "isAddwithDetailsButtonclicked",
+  "fullName" : "app.pp.TeamPlanningTest.isAddwithDetailsButtonclicked",
+  "historyId" : "cb6754cf743113369507babde2c9022",
+  "time" : {
+    "start" : 1550780559345,
+    "stop" : 1550780559986,
+    "duration" : 641
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1550780537046,
+      "stop" : 1550780544954,
+      "duration" : 7908
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "app.pp.TeamPlanningTest"
+  }, {
+    "name" : "testClass",
+    "value" : "app.pp.TeamPlanningTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "isAddwithDetailsButtonclicked"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "app.pp.TeamPlanningTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3M5A5R3N"
+  }, {
+    "name" : "thread",
+    "value" : "17032@LAPTOP-3M5A5R3N.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a90054fd29f33d3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,400 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default suite",
+    "children" : [ {
+      "name" : "Default test",
+      "children" : [ {
+        "name" : "app.pp.SignInTestPage",
+        "children" : [ {
+          "name" : "verifyPagetitle",
+          "uid" : "adc7d3dd4346d635",
+          "parentUid" : "2fda6e053b8aaf9fe20f4bed6ce4a807",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550779668072,
+            "stop" : 1550779668081,
+            "duration" : 9
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2fda6e053b8aaf9fe20f4bed6ce4a807"
+      }, {
+        "name" : "app.pp.SignInTest",
+        "children" : [ {
+          "name" : "isLogoimageDisplayed",
+          "uid" : "63ce2b8511c14a6b",
+          "parentUid" : "c728572efe2b8b4411f70170c9bb5b57",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550785734562,
+            "stop" : 1550785734593,
+            "duration" : 31
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Perform a sucessfull login",
+          "uid" : "ebc7295b3cca54a8",
+          "parentUid" : "c728572efe2b8b4411f70170c9bb5b57",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550785734606,
+            "stop" : 1550785736134,
+            "duration" : 1528
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c728572efe2b8b4411f70170c9bb5b57"
+      }, {
+        "name" : "app.pp.HomepageTest",
+        "children" : [ {
+          "name" : "verifyText",
+          "uid" : "13fd90086cf92cc9",
+          "parentUid" : "9351c58ae29348dd22eb8cc39146f682",
+          "status" : "broken",
+          "time" : {
+            "start" : 1550786048053,
+            "stop" : 1550786058106,
+            "duration" : 10053
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isInviteuserButtonseen",
+          "uid" : "ca7f285c03027e5b",
+          "parentUid" : "9351c58ae29348dd22eb8cc39146f682",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550804293713,
+            "stop" : 1550804293797,
+            "duration" : 84
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isMenubuttonClicked",
+          "uid" : "68490cf5c96124d0",
+          "parentUid" : "9351c58ae29348dd22eb8cc39146f682",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550804293808,
+            "stop" : 1550804293983,
+            "duration" : 175
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isHelpbuttonDisplayed",
+          "uid" : "5981e8e51ef05d16",
+          "parentUid" : "9351c58ae29348dd22eb8cc39146f682",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550804293993,
+            "stop" : 1550804294025,
+            "duration" : 32
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isSettingimageButtonDisplayed",
+          "uid" : "138f501f91a68215",
+          "parentUid" : "9351c58ae29348dd22eb8cc39146f682",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550804294038,
+            "stop" : 1550804297278,
+            "duration" : 3240
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isPinbuttonDisplayed",
+          "uid" : "3d82306d41083299",
+          "parentUid" : "9351c58ae29348dd22eb8cc39146f682",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550804297288,
+            "stop" : 1550804297335,
+            "duration" : 47
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9351c58ae29348dd22eb8cc39146f682"
+      }, {
+        "name" : "app.pp.TeamPlanningTest",
+        "children" : [ {
+          "name" : "isAddNewbuttonClicked",
+          "uid" : "e1328ed26aa4c5e3",
+          "parentUid" : "2067556ac590c80d2c512a11a69ab91a",
+          "status" : "broken",
+          "time" : {
+            "start" : 1550786330513,
+            "stop" : 1550786340667,
+            "duration" : 10154
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "clickMenubutton",
+          "uid" : "6a1c9b27acf64b2",
+          "parentUid" : "2067556ac590c80d2c512a11a69ab91a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550786400120,
+            "stop" : 1550786402134,
+            "duration" : 2014
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isTeamplanningButtonclicked",
+          "uid" : "c4b05d0906b52ad6",
+          "parentUid" : "2067556ac590c80d2c512a11a69ab91a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550786402255,
+            "stop" : 1550786403422,
+            "duration" : 1167
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isAddnewButtonDisplayed",
+          "uid" : "14c05cbe0127bbe5",
+          "parentUid" : "2067556ac590c80d2c512a11a69ab91a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550786403432,
+            "stop" : 1550786403460,
+            "duration" : 28
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isFilterButtonisDisplayed",
+          "uid" : "1dd97a505ecf63b0",
+          "parentUid" : "2067556ac590c80d2c512a11a69ab91a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550786403460,
+            "stop" : 1550786403603,
+            "duration" : 143
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isSelectdDropdownListPresent",
+          "uid" : "822b800960957072",
+          "parentUid" : "2067556ac590c80d2c512a11a69ab91a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550786403615,
+            "stop" : 1550786403649,
+            "duration" : 34
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "verifyText",
+          "uid" : "82c6acadfe6b9aa1",
+          "parentUid" : "2067556ac590c80d2c512a11a69ab91a",
+          "status" : "broken",
+          "time" : {
+            "start" : 1550786403659,
+            "stop" : 1550786403678,
+            "duration" : 19
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isAddwithDetailsButtonclicked",
+          "uid" : "c36f0bc230a2a4b0",
+          "parentUid" : "2067556ac590c80d2c512a11a69ab91a",
+          "status" : "broken",
+          "time" : {
+            "start" : 1550786403694,
+            "stop" : 1550786413723,
+            "duration" : 10029
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2067556ac590c80d2c512a11a69ab91a"
+      }, {
+        "name" : "app.pp.TeamPlanningTestPage",
+        "children" : [ {
+          "name" : "clickMenubutton",
+          "uid" : "56167d7c3ff2069b",
+          "parentUid" : "e854cd3079f9efc7600dcb18e355a427",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550786914503,
+            "stop" : 1550786916589,
+            "duration" : 2086
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isTeamplanningButtonclicked",
+          "uid" : "8c8abb877f5101e2",
+          "parentUid" : "e854cd3079f9efc7600dcb18e355a427",
+          "status" : "broken",
+          "time" : {
+            "start" : 1550786916714,
+            "stop" : 1550786917403,
+            "duration" : 689
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isAddnewButtonDisplayed",
+          "uid" : "c7fc8b85a9ab90bd",
+          "parentUid" : "e854cd3079f9efc7600dcb18e355a427",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550786917420,
+            "stop" : 1550786918581,
+            "duration" : 1161
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isFilterButtonisDisplayed",
+          "uid" : "87494188d99820fa",
+          "parentUid" : "e854cd3079f9efc7600dcb18e355a427",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550786918594,
+            "stop" : 1550786918627,
+            "duration" : 33
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isSelectdDropdownListPresent",
+          "uid" : "4d1be8110c93ab99",
+          "parentUid" : "e854cd3079f9efc7600dcb18e355a427",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550786918636,
+            "stop" : 1550786918685,
+            "duration" : 49
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "verifyText",
+          "uid" : "9e3d7dd7f185e82f",
+          "parentUid" : "e854cd3079f9efc7600dcb18e355a427",
+          "status" : "failed",
+          "time" : {
+            "start" : 1550786918794,
+            "stop" : 1550786918841,
+            "duration" : 47
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isAddNewbuttonClicked",
+          "uid" : "e45cd7a3ca9df4ae",
+          "parentUid" : "e854cd3079f9efc7600dcb18e355a427",
+          "status" : "broken",
+          "time" : {
+            "start" : 1550786918841,
+            "stop" : 1550786928994,
+            "duration" : 10153
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isAddwithDetailsButtonclicked",
+          "uid" : "41876d9ed7515dc6",
+          "parentUid" : "e854cd3079f9efc7600dcb18e355a427",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550786929010,
+            "stop" : 1550786929657,
+            "duration" : 647
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e854cd3079f9efc7600dcb18e355a427"
+      } ],
+      "uid" : "848117670d75f6868e681771989ad50e"
+    } ],
+    "uid" : "2c8837b97293ea01a164a5cd7048ad56"
+  }, {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "app.pp.HomepageTest",
+        "children" : [ {
+          "name" : "verifySuccessfulLogin",
+          "uid" : "7135444d9a9102e1",
+          "parentUid" : "a8f16ddf881cab0481491fbcc75e7f6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550804608061,
+            "stop" : 1550804609340,
+            "duration" : 1279
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a8f16ddf881cab0481491fbcc75e7f6e"
+      }, {
+        "name" : "app.pp.SignInTest",
+        "children" : [ {
+          "name" : "verifyPagetitle",
+          "uid" : "6e651a0e362b1089",
+          "parentUid" : "07c3d7028d1db44cf51e61085682c97d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1550804609567,
+            "stop" : 1550804609578,
+            "duration" : 11
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "07c3d7028d1db44cf51e61085682c97d"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}

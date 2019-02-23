@@ -1,0 +1,86 @@
+{
+  "uid" : "5c8074d7ab75d29f",
+  "name" : "Perform a sucessfull login",
+  "fullName" : "app.pp.SignInTest.fillLogindetails",
+  "historyId" : "fb12fa7f4251f7d56267700d9b15eb9b",
+  "time" : {
+    "start" : 1550781357866,
+    "stop" : 1550781358769,
+    "duration" : 903
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1550781351517,
+      "stop" : 1550781357624,
+      "duration" : 6107
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "shutDownPage",
+    "time" : {
+      "start" : 1550781358778,
+      "stop" : 1550781361126,
+      "duration" : 2348
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "app.pp.SignInTest"
+  }, {
+    "name" : "testClass",
+    "value" : "app.pp.SignInTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fillLogindetails"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "app.pp.SignInTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3M5A5R3N"
+  }, {
+    "name" : "thread",
+    "value" : "6616@LAPTOP-3M5A5R3N.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c8074d7ab75d29f.json",
+  "parameterValues" : [ ]
+}

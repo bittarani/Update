@@ -1,0 +1,86 @@
+{
+  "uid" : "7508a0e7a05b3f42",
+  "name" : "isHelpbuttonDisplayed",
+  "fullName" : "app.pp.HomepageTest.isHelpbuttonDisplayed",
+  "historyId" : "40f3475badd79224af9c4d08a2dbc0e3",
+  "time" : {
+    "start" : 1550785815120,
+    "stop" : 1550785815151,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1550785805572,
+      "stop" : 1550785812194,
+      "duration" : 6622
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "shutDownPage",
+    "time" : {
+      "start" : 1550785825280,
+      "stop" : 1550785827370,
+      "duration" : 2090
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "app.pp.HomepageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "app.pp.HomepageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "isHelpbuttonDisplayed"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "app.pp.HomepageTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3M5A5R3N"
+  }, {
+    "name" : "thread",
+    "value" : "12420@LAPTOP-3M5A5R3N.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7508a0e7a05b3f42.json",
+  "parameterValues" : [ ]
+}

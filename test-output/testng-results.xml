@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="9" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13401" started-at="2019-02-23T01:57:05Z" finished-at="2019-02-23T01:57:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13401" started-at="2019-02-23T01:57:05Z" finished-at="2019-02-23T01:57:18Z">
+      <class name="app.pp.TeamPlanningTestPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:app.pp.TeamPlanningTestPage@66a3ffec]" name="setUp" is-config="true" duration-ms="6960" started-at="2019-02-23T01:57:05Z" finished-at="2019-02-23T01:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickMenubutton()[pri:1, instance:app.pp.TeamPlanningTestPage@66a3ffec]" name="clickMenubutton" duration-ms="2405" started-at="2019-02-23T01:57:12Z" finished-at="2019-02-23T01:57:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickMenubutton -->
+        <test-method status="PASS" signature="isTeamplanningButtonclicked()[pri:2, instance:app.pp.TeamPlanningTestPage@66a3ffec]" name="isTeamplanningButtonclicked" duration-ms="445" started-at="2019-02-23T01:57:14Z" finished-at="2019-02-23T01:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isTeamplanningButtonclicked -->
+        <test-method status="PASS" signature="isAddnewButtonDisplayed()[pri:3, instance:app.pp.TeamPlanningTestPage@66a3ffec]" name="isAddnewButtonDisplayed" duration-ms="994" started-at="2019-02-23T01:57:15Z" finished-at="2019-02-23T01:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isAddnewButtonDisplayed -->
+        <test-method status="PASS" signature="isFilterButtonisDisplayed()[pri:4, instance:app.pp.TeamPlanningTestPage@66a3ffec]" name="isFilterButtonisDisplayed" duration-ms="148" started-at="2019-02-23T01:57:16Z" finished-at="2019-02-23T01:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isFilterButtonisDisplayed -->
+        <test-method status="PASS" signature="isSelectdDropdownListPresent()[pri:5, instance:app.pp.TeamPlanningTestPage@66a3ffec]" name="isSelectdDropdownListPresent" duration-ms="41" started-at="2019-02-23T01:57:16Z" finished-at="2019-02-23T01:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSelectdDropdownListPresent -->
+        <test-method status="PASS" signature="isAddNewbuttonClicked()[pri:7, instance:app.pp.TeamPlanningTestPage@66a3ffec]" name="isAddNewbuttonClicked" duration-ms="133" started-at="2019-02-23T01:57:16Z" finished-at="2019-02-23T01:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isAddNewbuttonClicked -->
+        <test-method status="PASS" signature="isAddwithDetailsButtonclicked()[pri:9, instance:app.pp.TeamPlanningTestPage@66a3ffec]" name="isAddwithDetailsButtonclicked" duration-ms="110" started-at="2019-02-23T01:57:16Z" finished-at="2019-02-23T01:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isAddwithDetailsButtonclicked -->
+        <test-method status="PASS" signature="shutDownPage()[pri:0, instance:app.pp.TeamPlanningTestPage@66a3ffec]" name="shutDownPage" is-config="true" duration-ms="2123" started-at="2019-02-23T01:57:16Z" finished-at="2019-02-23T01:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDownPage -->
+      </class> <!-- app.pp.TeamPlanningTestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
